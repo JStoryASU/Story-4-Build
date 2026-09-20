@@ -1,0 +1,8 @@
+/* CSS written by Justin Story */
+
+/* GLOBAL STYLES (MOBILE FIRST) */
+body {
+   display:grid;
+   grid-template-columns: 1fr;
+   background-color: green; 
+}
